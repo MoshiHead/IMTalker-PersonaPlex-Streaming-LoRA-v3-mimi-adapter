@@ -1,1 +1,1 @@
-# IMTalker-PersonaPlex-Streaming-LoRA-v3-mimi-adapter-local folder third try
+# IMTalker-PersonaPlex-Streaming-v1
